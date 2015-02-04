@@ -1,2 +1,2 @@
 # bbdb
-A quick repo for loading Lahman and Retrosheet data into database
+A quick repo for loading baseball data into a database
