@@ -1,0 +1,2 @@
+* ```download.sh``` executes download.py for each year, which is stolen from [Wells Oliver](https://github.com/wellsoliver/py-retrosheet)
+* ```cwevent.sh``` and ```cwgame.sh``` depend on command-line tools from [Chadwick](http://chadwick.sourceforge.net/doc/cwtools.html)
